@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "Redshift",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -33,7 +33,7 @@
     "userPermissions": [],
     "createdAt": "2023-09-04T11:41:30Z"
   },
-  "id": "Page1_insert",
+  "id": "Redshift_insert",
   "deleted": false,
   "gitSyncId": "64f577014f12027df9a7945e_64f5c26a822f944f7924a9bc"
 }

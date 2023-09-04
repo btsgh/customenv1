@@ -61,7 +61,19 @@
       "isDefault": false
     },
     {
-      "id": "Page1",
+      "id": "Redshift",
+      "isDefault": false
+    },
+    {
+      "id": "ElasticSearch",
+      "isDefault": false
+    },
+    {
+      "id": "Dynamo",
+      "isDefault": false
+    },
+    {
+      "id": "Redis",
       "isDefault": false
     }
   ],
