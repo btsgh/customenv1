@@ -1,0 +1,2 @@
+FOR document IN users
+RETURN document

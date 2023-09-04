@@ -1,0 +1,9 @@
+ insert {
+    "gender": "male",
+    "_ref": {
+      "path": "users/G0orIwfONMFb74zeSizp",
+      "id": "G0orIwfONMFb74zeSizp"
+    },
+    "name": "Ritesh",
+    "email": "ritesh@gmail.com"
+  } into users
