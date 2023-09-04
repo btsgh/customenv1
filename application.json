@@ -51,6 +51,14 @@
     {
       "id": "OAuthAPI",
       "isDefault": false
+    },
+    {
+      "id": "mssql",
+      "isDefault": false
+    },
+    {
+      "id": "MySQL",
+      "isDefault": false
     }
   ],
   "viewMode": false,

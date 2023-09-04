@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "OAuthAPI",
-    "slug": "oauthapi",
+    "name": "MySQL",
+    "slug": "mysql",
     "layouts": [
       {
         "viewMode": false,
@@ -28,10 +28,10 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "OAuthAPI_Api1",
-              "name": "Api1",
+              "id": "MySQL_Select",
+              "name": "Select",
               "confirmBeforeExecute": false,
-              "pluginType": "API",
+              "pluginType": "DB",
               "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }
@@ -39,7 +39,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "OAuthAPI",
+        "id": "MySQL",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -50,5 +50,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "64f577014f12027df9a7945e_64f596c44f12027df9a7966c"
+  "gitSyncId": "64f577014f12027df9a7945e_64f5b4c6822f944f7924a85a"
 }

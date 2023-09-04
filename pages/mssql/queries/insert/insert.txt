@@ -1,0 +1,1 @@
+INSERT INTO dbo.Persons (PersonID, LastName, FirstName, Address, City) VALUES (1, 'Krishen', 'Kapur', 'Ray Done Techa', 'Singapore')
