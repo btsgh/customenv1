@@ -11,6 +11,18 @@
     {
       "id": "Public.users",
       "isDefault": false
+    },
+    {
+      "id": "Public.users2",
+      "isDefault": false
+    },
+    {
+      "id": "Public.users3",
+      "isDefault": false
+    },
+    {
+      "id": "CypressStats",
+      "isDefault": false
     }
   ],
   "viewMode": false,
