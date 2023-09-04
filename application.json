@@ -39,6 +39,18 @@
     {
       "id": "S3",
       "isDefault": false
+    },
+    {
+      "id": "Firestore",
+      "isDefault": false
+    },
+    {
+      "id": "snowflakegpwd",
+      "isDefault": false
+    },
+    {
+      "id": "OAuthAPI",
+      "isDefault": false
     }
   ],
   "viewMode": false,

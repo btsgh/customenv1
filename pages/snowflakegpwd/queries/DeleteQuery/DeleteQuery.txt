@@ -1,0 +1,2 @@
+DELETE FROM PUBLIC.USERS
+  WHERE PHONENO = {{data_table.triggeredRow.PHONENO}};
