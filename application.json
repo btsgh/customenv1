@@ -59,6 +59,10 @@
     {
       "id": "MySQL",
       "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
     }
   ],
   "viewMode": false,
